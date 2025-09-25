@@ -47,3 +47,8 @@ body {
     height: 25px;
     border-radius: 12px;
 }
+
+.bead {
+    /* 既存のスタイル */
+    touch-action: none;
+}
